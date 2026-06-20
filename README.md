@@ -2,7 +2,7 @@
 
 ## About Rayss
 
-Rayss is an independent smart contract security researcher with 1.5 years of experience in blockchain security. Within the first year of my starting security journey, achieved a Top 70 global ranking on Code4rena (2025).
+Rayss is an independent smart contract security researcher with 1.5 years of experience in blockchain security. Within the first year of my security journey, achieved a Top #70 global ranking on Code4rena (2025).
 
 For private security reviews or consulting, please reach out to me on:
 
