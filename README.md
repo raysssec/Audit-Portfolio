@@ -24,3 +24,4 @@ X - https://x.com/rayss_07
 | [Citrea](https://x.com/citrea_xyz?s=20)        | DAO                           | 45             |
 | [Ondo Finance](https://x.com/OndoFinance?s=20) | RWA                           | 60             |
 | [Snowbridge](https://x.com/_snowbridge?s=20)   | Cross-Chain Bridge, Polkadot  | 70             |
+| [Maple](https://x.com/maplefinance?s=20)       | Credit, Lending               | 70             |
